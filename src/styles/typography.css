@@ -1,12 +1,12 @@
 @import "./root.css";
 
 code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
         monospace;
 }
 
 h1 {
-    font-family: 'Syne', sans-serif;
+    font-family: "Syne", sans-serif;
     font-size: 6.75rem;
     font-weight: 700;
     line-height: 6.875rem;
@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Syne', sans-serif;
+    font-family: "Syne", sans-serif;
     font-size: 3rem;
     font-weight: 700;
     line-height: 3.625rem;
@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Syne', sans-serif;
+    font-family: "Syne", sans-serif;
     font-size: 2rem;
     font-weight: 700;
     line-height: 2.375rem;
@@ -30,7 +30,7 @@ h3 {
 }
 
 h4 {
-    font-family: 'Syne', sans-serif;
+    font-family: "Syne", sans-serif;
     font-size: 1.25rem;
     font-weight: 700;
     line-height: 1.75rem;
@@ -45,7 +45,7 @@ h4 {
 
 .Typo-2 {
     font-size: 1rem;
-    line-height: 1.1875rem;
+    line-height: 1.5rem;
     color: var(--black-60-);
 }
 

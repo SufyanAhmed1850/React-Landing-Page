@@ -1,0 +1,44 @@
+.Tool-section {
+    width: 100%;
+}
+
+.img-container {
+    position: relative;
+}
+
+.img-container img {
+    max-width: 465px;
+    width: 100%;
+    min-width: 250px;
+    height: 480px;
+    object-fit: cover;
+    object-position: center center;
+    border-radius: 38px;
+}
+
+.Tool-section {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.tool-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tool-body > div {
+    flex: 1;
+}
+
+.tool-body-right {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.tool {
+    max-width: 350px;
+    width: 100%;
+}

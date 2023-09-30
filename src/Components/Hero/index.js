@@ -22,7 +22,7 @@ function Hero() {
                 day: "numeric",
                 year: "numeric",
             });
-            setDate(formattedDate);
+            if (formattedDate !== date) setDate(formattedDate);
         }, 1);
     }, []);
     console.log("formattedDate");

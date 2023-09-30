@@ -1,0 +1,15 @@
+.Bg {
+    background-color: var(--blue-60-);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Bg > div {
+    max-width: 1080px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
